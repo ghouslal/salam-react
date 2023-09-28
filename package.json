@@ -1,0 +1,32 @@
+{
+  "name": "salam-react",
+  "version": "1.0.0",
+  "description": "Salam  react learning",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghouslal/salam-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Ghous lal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghouslal/salam-react/issues"
+  },
+  "homepage": "https://github.com/ghouslal/salam-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
