@@ -1,0 +1,12 @@
+1-jsx is not html in js, it is like html syntax
+2-jsx is different, react is different
+3 component
+3-a-class based comp => use js class
+3-b-functional based comp => use functions
+4-component composition => usng one component inside another component
+
+
+
+
+
+a-different attributes like id or class in jsx
